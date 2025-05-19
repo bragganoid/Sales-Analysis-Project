@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-Company X is a leading apparel brand in Australia, operating since 2000. Serving all demographics—kids, women, men, and seniors—the company has expanded across metropolitan and tier-1/2 cities. As AAL plans further expansion, its leadership needs deeper insights into **Q4 sales performance** to make data-driven business decisions.
+Company X is a leading apparel brand in Australia, operating since 2000. Serving all demographics—kids, women, men, and seniors—the company has expanded across metropolitan and tier-1/2 cities. As Company X plans further expansion, its leadership needs deeper insights into **Q4 sales performance** to make data-driven business decisions.
 
 
 
