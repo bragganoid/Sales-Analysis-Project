@@ -24,9 +24,9 @@ Company X is a leading apparel brand in Australia, operating since 2000. Serving
 
 ```
 ├── data/
-│   └── sales_data_q4.csv
+│   └── AusApparalSales4thQrt2020.csv
 ├── notebooks/
-│   └── Sales_Analysis_Report.ipynb
+│   └── Sales_analysis.ipynb
 ├── dashboards/
 │   └── sales_dashboard.png
 ├── README.md
